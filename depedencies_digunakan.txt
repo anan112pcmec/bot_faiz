@@ -1,0 +1,7 @@
+ada 4 dependecies yang digunakan
+yakni:
+
+whiskey/baileys
+chalk
+pino
+readline

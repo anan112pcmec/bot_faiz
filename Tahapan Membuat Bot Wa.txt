@@ -1,0 +1,9 @@
+Tahapan Membuat Bot Wa
+
+Membuat Struktur
+Membangun package
+Membangun Koneksi
+Test Running Bot
+Membangun FItur
+Membangun Log Terminal
+Membangun fitur AI
